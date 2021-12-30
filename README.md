@@ -1,1 +1,1 @@
-# Forest-Fire-Detection-using-image-Processingh
+# Forest-Fire-Detection-using-image-Processing
